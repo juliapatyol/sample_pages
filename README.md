@@ -1,5 +1,7 @@
 ## Olá! Seja Bem-Vindo!
 
-Meu nome é Júlia, tenho 16 anos e sou aluna do curso técnico de Informática para Internet!
+Meu nome é Júlia, e sou aluna do curso técnico de Informática para Internet
+
+Esse é o meu primeiro site
 
 
