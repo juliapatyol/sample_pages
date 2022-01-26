@@ -1,4 +1,4 @@
-## Olá! Seja Bem-Vindo!
+## Olá! Seja Bem-Vindo
 
 You can use the [editor on GitHub](https://github.com/juliapatyol/sample_pages/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
