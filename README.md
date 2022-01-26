@@ -2,6 +2,6 @@
 
 Meu nome é Júlia, e sou aluna do curso técnico de Informática para Internet
 
-Esse é o meu primeiro site
+Essa é a minha primeira página personalizada no GitHub page
 
 
