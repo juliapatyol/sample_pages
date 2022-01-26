@@ -9,5 +9,7 @@ Cursando Técnico de Informática para Internet - Instituição de ensino: SENAI
 
 ## Idiomas:
 Português: fluente
-Inglês: Intermediário - cursando
+<br>
+Inglês: Intermediário
+<br>
 Espanhol: básico
