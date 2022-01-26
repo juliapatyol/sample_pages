@@ -1,6 +1,7 @@
 ## Olá! Seja Bem-Vindo!
 
 Meu nome é Júlia, essa é a minha primeira página personalizada no GitHub page!
+O nome do meu repositório é: sample_teste
 
 ## Formação Acadêmica:
 Técnico de Informática para Internet
