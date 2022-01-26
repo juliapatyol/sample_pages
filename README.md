@@ -10,8 +10,8 @@ Cursando Técnico de Informática para Internet
 Instituição de ensino: SENAI UI Nenem Scariolli
 
 ## Idiomas:
-Português: fluente
+Português: Fluente
 <br>
 Inglês: Intermediário
 <br>
-Espanhol: básico
+Espanhol: Básico
